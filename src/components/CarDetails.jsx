@@ -44,7 +44,7 @@ const CarDetails = ({ isOpen, closeModal, car }) => {
                     />
                   </button>
                   <div className="flex-1 flex flex-col gap-3">
-                    <div className="relative w-full h-40 bg-pattern bg-cover bg-center rounded-lg flex justify-center items-center">
+                    <div className="relative w-full h-40 bg-cover bg-center rounded-lg flex justify-center items-center">
                       <img
                         src="/assets/hero.png"
                         className="w-[200px] h-auto"
