@@ -22,7 +22,7 @@ To get CarHub up and running locally, follow these simple steps:
 1. Clone the repository:
 
 ```bash
-git clone https://yourrepositorylink.com/rapidride.git
+git clone https://github.com/NikolaVekic/car-rental-app
 ```
 
 2. Install the necessary dependencies:
