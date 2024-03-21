@@ -8,10 +8,11 @@ Welcome to CarHub, a beautiful and easy-to-navigate website that uses Rapid API 
 
 ## Features
 
-- **Comprehensive Car Selection**: Browse through an extensive catalog of cars to find exactly what you need, whether it's luxury, economy, or anything in between.
-- **Real-Time Availability**: Thanks to Rapid API, check real-time car availability to ensure you get what you want, when you want it.
+- **Comprehensive Car Selection**: Browse through an extensive catalogue of cars to find exactly what you need, whether it's luxury, economy, or anything in between.
+- **Real-Time Availability**: Thanks to Rapid API, check real-time car availability to ensure you get what you want when you want it.
 - **User-Friendly Interface**: With this clean design, booking a car has never been easier or more enjoyable.
 - **Detailed Car Information**: Get all the details you need about any vehicle, including specifications, rental terms, and pricing, to make an informed decision.
+- **Headless UI**: Utilizing the power of Tailwind CSS and Headless UI components to create a beautiful web experience.
 
 ## Getting Started
 
