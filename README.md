@@ -1,6 +1,6 @@
 # CarHub - Car Rental Website
 
-Welcome to CarHub, a beautiful and easy-to-navigate website that uses Rapid API to help you filter through different cars and display all relevant info regarding the specific model, you can even filter with a few pre-defined filter options!
+Welcome to CarHub, a beautiful and easy-to-navigate website that uses Rapid API to help you filter through different cars and display all relevant info regarding the specific model!
 
 ## CarHub
 ![screencapture-localhost-3000-2024-03-19-18_55_39](https://github.com/NikolaVekic/car-rental-app/assets/55920607/1349f86f-2f0e-49a1-8f21-4198246f72e8)
