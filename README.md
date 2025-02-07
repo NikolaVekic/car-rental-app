@@ -1,14 +1,14 @@
-# 🚗 Car Rental App
+# 🌐 Car Rental App
 
 ![CarHub](https://github.com/NikolaVekic/car-rental-app/assets/55920607/1349f86f-2f0e-49a1-8f21-4198246f72e8)
 
-## 🚙 CarHub
+## 🚗 CarHub
 
 Welcome to CarHub, a website that uses Rapid API to help you filter through different cars and display all relevant info regarding the specific model.
 
 ## ✨ Features
 
-- 🚗 **Car Selection**: Browse through an extensive catalogue of cars to find exactly what you need, whether it's luxury, economy, or anything in between.
+- 🔍 **Car Selection**: Browse through an extensive catalogue of cars to find exactly what you need, whether it's luxury, economy, or anything in between.
 - 📝 **API Filters**: Apply different filters to customize car choice.
 - 🎨 **Responsive Interface**: Uses TailwindCSS, Headless UI and React for a responsive Frontend.
 
