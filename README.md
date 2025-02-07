@@ -4,7 +4,7 @@
 
 ## 🚘 CarHub
 
-Welcome to CarHub, an app that uses React, Tailwind CSS and Rapid API to help you filter through different cars and display all relevant info regarding the specific model.
+Car rental app using React, Tailwind CSS and Rapid API to search for specific vehicles.
 
 ## ✨ Features
 
