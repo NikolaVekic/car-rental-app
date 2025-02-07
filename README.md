@@ -4,7 +4,7 @@
 
 ## 🚘 CarHub
 
-Welcome to CarHub, an app that uses Rapid API to help you filter through different cars and display all relevant info regarding the specific model.
+Welcome to CarHub, an app that uses React, Tailwind CSS and Rapid API to help you filter through different cars and display all relevant info regarding the specific model.
 
 ## ✨ Features
 
