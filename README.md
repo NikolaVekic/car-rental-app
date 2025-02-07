@@ -1,8 +1,8 @@
-# 🚘 Car Rental App
+# 🚗 Car Rental App
 
 ![CarHub](https://github.com/NikolaVekic/car-rental-app/assets/55920607/1349f86f-2f0e-49a1-8f21-4198246f72e8)
 
-## 🚗 CarHub
+## 🚘 CarHub
 
 Welcome to CarHub, a website that uses Rapid API to help you filter through different cars and display all relevant info regarding the specific model.
 
